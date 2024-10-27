@@ -343,7 +343,6 @@ function isBracketsBalanced(/* str */) {
 }
 
 
-
 /**
  * Returns the string with n-ary (binary, ternary, etc, where n <= 10)
  * representation of specified number.
